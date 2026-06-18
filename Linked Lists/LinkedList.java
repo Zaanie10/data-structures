@@ -21,8 +21,6 @@ public class LinkedList
         }
     }
 
-    //======== Your part to complete for this assignment =========
-
     //method #1: add first node
     // Adds a new node with the given data at the beginning of the list
     public void addFirstNode(int data) {
