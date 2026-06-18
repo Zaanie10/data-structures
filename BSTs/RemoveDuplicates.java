@@ -1,10 +1,3 @@
-// Name: Zaanie Bowen
-// Class: CS3305/W03 
-// Term: Summer 2025
-// Instructor: Prof. Wang 
-// Assignment: 6
-// IDE Name: Visual Studio Code
-
 import java.util.List;
 import java.util.Scanner;
 import java.util.StringTokenizer; // Used for splitting the input string into words
