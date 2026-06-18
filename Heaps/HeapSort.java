@@ -1,13 +1,3 @@
-// Name: Zaanie Bowen
-// Class: CS3305/W03
-// Term: Summer 2025
-// Instructor: Prof. Wang
-// Assignment: 5
-// IDE Name: IntelliJ
-
-// Class Heap.java
-// Textbook - Listing 23.9, Page 878
-
 public class HeapSort {
    /** Heap sort method */
    public static <E extends Comparable<E>> void heapSort(E[] list) {
