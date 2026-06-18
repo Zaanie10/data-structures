@@ -1,12 +1,3 @@
-// Name: Zaanie Bowen
-// Class: CS3305/W03 
-// Term: Summer 2025
-// Instructor: Prof. Wang 
-// Assignment: 6
-// IDE Name: Visual Studio Code
-
-//package chapter25;
-
 import java.util.ArrayList; // Import ArrayList
 import java.util.List;      // Import List
 
