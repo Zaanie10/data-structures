@@ -1,14 +1,3 @@
-// Name: Zaanie Bowen
-// Class: CS3305/W03
-// Term: Summer 2025
-// Instructor: Prof. Wang
-// Assignment: #2
-// IDE Name: IntelliJ IDEA
-
-/*
-This class define a linked list that stores integer values.
-*/
-
 public class LinkedList
 {
     public Node head, tail;
