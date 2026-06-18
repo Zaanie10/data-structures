@@ -1,10 +1,3 @@
-// Name: Zaanie Bowen
-// Class: CS3305/W03
-// Term: Summer 2025
-// Instructor: Prof. Wang
-// Assignment: 4
-// IDE Name: IntelliJ
-
 public class Queue<E> {
     private Node<E> front; // Points to the front (head) of the queue
     private Node<E> rear;  // Points to the rear (tail) of the queue
