@@ -1,12 +1,3 @@
-// Name:    Zaanie Bowen
-// Class:   CS3305/W03
-// Term:    Summer 2025
-// Instructor:   Prof. Wang
-// Assignment:   #3
-// IDE Name:   IntelliJ IDEA
-
-// A generic stack class implemented using a singly linked list.
-// Provides standard stack operations: push, pop, top, size, isEmpty.
 public class MyStack<E> {
 
     // Node class represents each element in the stack.
