@@ -1,10 +1,3 @@
-// Name: Zaanie Bowen
-// Class: CS3305/w03
-// Term: Spring 2025
-// Instructor: Prof. Wang
-// Assignment: #1
-// IDE: IntelliJ
-
 import java.util.Scanner;
 
 public class vowels {
