@@ -1,14 +1,3 @@
-// Name: Zaanie Bowen
-// Class: CS3305/W03
-// Term: Summer 2025
-// Instructor: Prof. Wang
-// Assignment: #2 - Used for #3
-// IDE Name: IntelliJ IDEA
-
-/*
-This class define a linked list that stores integer values.
-*/
-
 public class LinkedList
 {
     public Node head, tail;
@@ -31,8 +20,6 @@ public class LinkedList
             tail = tail.next; //make tail pointer points to last node
         }
     }
-
-    //======== Your part to complete for this assignment =========
 
     //method #1: add first node
     // Adds a new node with the given data at the beginning of the list
@@ -154,9 +141,6 @@ public class LinkedList
         printInReverseRecursive(node.next);
         System.out.print(node.data + "   ");
     }
-
-//================= end of your part ==============
-
 
     //method to print out the list
     public void printList()
