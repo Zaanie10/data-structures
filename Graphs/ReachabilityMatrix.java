@@ -1,10 +1,3 @@
-// Name: Zaanie Bowen
-// Class: CS3305/Section
-// Term: Summer 2025
-// Instructor: Prof. Wang
-// Assignment: #8
-// IDE Name: IntelliJ IDEA
-
 import java.util.Scanner;
 
 public class ReachabilityMatrix {
