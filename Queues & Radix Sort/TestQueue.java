@@ -1,10 +1,3 @@
-// Name: Zaanie Bowen
-// Class: CS3305/W03
-// Term: Summer 2025
-// Instructor: Prof. Wang
-// Assignment: 4
-// IDE Name: IntelliJ
-
 import java.util.Scanner;
 
 public class TestQueue {
