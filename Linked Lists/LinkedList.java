@@ -142,9 +142,6 @@ public class LinkedList
         System.out.print(node.data + "   ");
     }
 
-//================= end of your part ==============
-
-
     //method to print out the list
     public void printList()
     {
