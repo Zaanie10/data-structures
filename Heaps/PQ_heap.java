@@ -1,12 +1,3 @@
-// Name: Zaanie Bowen
-// Class: CS3305/W03
-// Term: Summer 2025
-// Instructor: Prof. Wang
-// Assignment: 5
-// IDE Name: IntelliJ
-
-// Generic code for class PQ_heap for Assignment 7
-
 public class PQ_heap <E extends Comparable<E>>
 {
     // Internal heap object used for priority queue operations
